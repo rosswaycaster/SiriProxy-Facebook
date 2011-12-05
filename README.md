@@ -1,4 +1,4 @@
-This is the Facebook plugin for SiriProxy. Please follow the rules in the config-info.yml file.
+This is the Facebook plugin for [SiriProxy](https://github.com/plamoni/SiriProxy). Please follow the rules in the config-info.yml file.
 
 Video: http://www.youtube.com/watch?v=8Qsms2jFOdg
 
