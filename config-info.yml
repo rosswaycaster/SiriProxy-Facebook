@@ -1,0 +1,10 @@
+#Example configuration options that can be placed in your main SiriProxy config.yml
+
+##########################
+#NOTICE: Modifying these options in this file has no effect. You must put them in SiriProxy's config.yml!
+##########################
+    
+    - name: 'Facebook'
+      path: './plugins/siriproxy-facebook'
+      access_token: 'YOUR_ACCESS_TOKEN' #both of these can be gotten from siri.rosswaycaster.com
+      username: 'YOUR_FACEBOOK_USERNAME'#^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
