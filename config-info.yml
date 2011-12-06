@@ -5,6 +5,6 @@
 ##########################
     
     - name: 'Facebook'
-      path: './plugins/siriproxy-facebook'
+      git: 'git://github.com/rosswaycaster/SiriProxy-Facebook.git'
       access_token: 'YOUR_ACCESS_TOKEN' #both of these can be gotten from siri.rosswaycaster.com
       username: 'YOUR_FACEBOOK_USERNAME'#^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
