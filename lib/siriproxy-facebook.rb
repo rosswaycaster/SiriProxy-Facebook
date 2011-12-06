@@ -55,10 +55,10 @@ class SiriProxy::Plugin::Facebook < SiriProxy::Plugin
           request_completed #always complete your request! Otherwise the phone will "spin" at the user!
     end
     
-    # listen_for /kill proxy/i do
-    #        2*kill*proxy
-    #        
-    #     request_completed #always complete your request! Otherwise the phone will "spin" at the user!
-    #     end
+    listen_for /kill proxy/i do
+           2*kill*proxy
+           
+        request_completed #always complete your request! Otherwise the phone will "spin" at the user!
+        end
   
 end
