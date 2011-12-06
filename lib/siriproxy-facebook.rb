@@ -29,8 +29,10 @@ class SiriProxy::Plugin::Facebook < SiriProxy::Plugin
           
           say "Checking Facebook..."
             
-          notifications['notifications'].each do
-            count = count + 1
+          unless notifications.nil?
+            notifications['notifications'].each do
+              count = count + 1
+            end
           end
             
             if count == 1
