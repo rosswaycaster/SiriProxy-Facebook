@@ -20,4 +20,4 @@ More actions and interactivity to come.
 
 I have created a Facebook app that will give you your Access_Token and username with the correct permissions.
 
-All you have to do is go to http://siri.rosswaycaster.com and follow the directions. None of your information is stored or shared. If you know how to set up your own Facebook app feel free to do so and get a access_token from there.
+All you have to do is go to ~~http://siri.rosswaycaster.com~~ and follow the directions. None of your information is stored or shared. If you know how to set up your own Facebook app feel free to do so and get a access_token from there.
