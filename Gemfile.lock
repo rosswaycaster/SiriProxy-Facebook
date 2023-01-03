@@ -8,12 +8,12 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    httparty (0.8.1)
-      multi_json
-      multi_xml
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
     json (1.6.3)
-    multi_json (1.0.4)
-    multi_xml (0.4.1)
+    mini_mime (1.1.2)
+    multi_xml (0.6.0)
 
 PLATFORMS
   ruby
